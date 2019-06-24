@@ -1,0 +1,14 @@
+epoch=0
+n_epochs=1000
+batchSize=1
+dataroot='../data/Eye_fundus'
+lr=0.0002
+decay_epoch=100
+size=396
+input_nc=3
+output_nc=3
+crop_size=2000
+n_cpu=4
+sample_dir = '../sample/'
+log_iter = 50
+image_iter = 200
