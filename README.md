@@ -1,3 +1,3 @@
 # PRP_project
 
-medical image processing using GAN
+medical image processing based on GAN
