@@ -7,9 +7,9 @@ I am exploring two ways to generate normal retinal images:
 * DCGAN-based network to generate more normal retinal images and compare them with retinal image with lesion.
 
 Sample Result:
-![](./result/DCGAN.png)
+
+![](result/DCGAN.png)
 
 * cGAN-based network to pix-to-pix generate normal retinal images correspond to lesion image.
 
-![](./result/network.png)
-
+![](result/network.png)
