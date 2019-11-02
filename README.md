@@ -1,7 +1,15 @@
 # Retinal-Image-GAN
 
-basically two ways to generate new retinal images
+Code for **"GAN-Based Intelligent Generation of Retinal Images"** in Participate in Research Program at Shanghai Jiao Tong University.
 
-1. [generate images from previous images](https://github.com/ruisizhang123/Retinal-Image-GAN/blob/master/preGAN.py)
+I am exploring two ways to generate normal retinal images:
 
-2. generate images from vessel using style transfering
+* DCGAN-based network to generate more normal retinal images and compare them with retinal image with lesion.
+
+Sample Result:
+![](./result/DCGAN.png)
+
+* cGAN-based network to pix-to-pix generate normal retinal images correspond to lesion image.
+
+![](./result/network.png)
+
